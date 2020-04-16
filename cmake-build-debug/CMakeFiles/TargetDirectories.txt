@@ -1,0 +1,3 @@
+/Users/kurtis/Documents/CS 3A/Week 4/labAndPlane/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kurtis/Documents/CS 3A/Week 4/labAndPlane/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kurtis/Documents/CS 3A/Week 4/labAndPlane/cmake-build-debug/CMakeFiles/labAndPlane.dir

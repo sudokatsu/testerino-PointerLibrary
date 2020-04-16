@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kurtis/Documents/CS 3A/Week 4/labAndPlane/labDemo.h
+iostream
+-
+iomanip
+-
+pointerLibrary.h
+/Users/kurtis/Documents/CS 3A/Week 4/labAndPlane/pointerLibrary.h
+
+/Users/kurtis/Documents/CS 3A/Week 4/labAndPlane/main.cpp
+iostream
+-
+pointerLibrary.h
+/Users/kurtis/Documents/CS 3A/Week 4/labAndPlane/pointerLibrary.h
+labDemo.h
+/Users/kurtis/Documents/CS 3A/Week 4/labAndPlane/labDemo.h
+planeDemo.h
+/Users/kurtis/Documents/CS 3A/Week 4/labAndPlane/planeDemo.h
+
+/Users/kurtis/Documents/CS 3A/Week 4/labAndPlane/planeDemo.cpp
+iostream
+-
+iomanip
+-
+planeDemo.h
+/Users/kurtis/Documents/CS 3A/Week 4/labAndPlane/planeDemo.h
+pointerLibrary.h
+/Users/kurtis/Documents/CS 3A/Week 4/labAndPlane/pointerLibrary.h
+
+/Users/kurtis/Documents/CS 3A/Week 4/labAndPlane/planeDemo.h
+iostream
+-
+iomanip
+-
+pointerLibrary.h
+/Users/kurtis/Documents/CS 3A/Week 4/labAndPlane/pointerLibrary.h
+
+/Users/kurtis/Documents/CS 3A/Week 4/labAndPlane/pointerLibrary.h
+iostream
+-
+iomanip
+-
+
